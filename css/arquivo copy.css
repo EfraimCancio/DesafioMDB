@@ -1,0 +1,14 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://i.pinimg.com/originals/9a/59/1b/9a591b840be5d156bb6881ee011224e5.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
